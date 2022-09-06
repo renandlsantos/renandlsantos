@@ -4,14 +4,14 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-Arquiteto de Integração, Instrutor e na horas vagas desenvolvedor a toa.
-Atuo com TI a mais de 7 anos em diferentes áreas como suporte, desenvolvimento de sistemas, analista de solução, arquiteto de
+CEO, arquiteto, instrutor e na horas vagas desenvolvedor a toa.
+Atuo com TI a mais de 8 anos em diferentes áreas como suporte, desenvolvimento de sistemas, analista de solução, arquiteto de
 integração, monitoramento, líder de projeto, NOC e novas soluções.
 Especialista múltiplas linguagens de programação e ferramentas: 
-Docker, IRIS Basic (COS), Python, Node.js, JavaScript, React, Vue, MySQL, PostgreSQL, ElasticSearch, entre outros.
-Atua hoje na área da saúde e afins.
+Docker, IRIS Basic (COS), Python, Node.js, JavaScript, React, Vue.js, ElasticSearch, entre outros.
+Sou responsável pela maior empresa tecnologia e marketing digital do Brasil.
 
-- 💼 &nbsp; Trabalhando como Arquiteto de Integração na IT Tech.
+- 💼 &nbsp; Atualmente sou CEO da isNew Digital Tech.
 
 <br/>
 
