@@ -9,6 +9,7 @@ Atuo com TI a mais de 8 anos em diferentes áreas como suporte, desenvolvimento 
 integração, monitoramento, líder de projeto, NOC e novas soluções.
 Especialista múltiplas linguagens de programação e ferramentas: 
 Docker, IRIS Basic (COS), Python, Node.js, JavaScript, React, Vue.js, ElasticSearch, entre outros.
+
 Sou responsável pela maior empresa tecnologia e marketing digital do Brasil.
 
 - 💼 &nbsp; Atualmente sou CEO da isNew Digital Tech.
