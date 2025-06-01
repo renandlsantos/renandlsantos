@@ -1,6 +1,6 @@
-# E aí, devs! 👋 Eu sou o Renan
+m# E aí, devs! 👋 Eu sou o Renan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liimarenan" alt="liimarenan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renandlsantos" alt="renandlsantos" /> </p>
 
 ## 🚀 Sobre mim
 
@@ -77,8 +77,8 @@ Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Arqu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liimarenan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liimarenan&layout=compact&langs_count=8&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandlsantos&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandlsantos&layout=compact&langs_count=8&theme=vue"/>
 </div>
 
 ---
