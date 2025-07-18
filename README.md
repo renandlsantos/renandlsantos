@@ -6,7 +6,7 @@ m# E aí, devs! 👋 Eu sou o Renan
 
 **Engenheiro de Dados Sênior | ML Engineer | Especialista em IA & Multi-Cloud**
 
-Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Arquiteto de Dados na NeuralMed** e **Líder de Engenharia de ML na Academia Lendár[IA]**, onde construo pipelines escaláveis e soluções de IA multi-cloud que impactam milhares de vidas.
+Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Engenheiro de IA** e **Instrutor na Academia Lendár[IA]**, onde construo pipelines escaláveis e soluções de IA multi-cloud que impactam milhares de vidas.
 
 ### 🎯 Minha expertise:
 - **🏗️ Data Engineering**: Pipelines ETL/ELT que aumentaram eficiência em **75%**
@@ -16,9 +16,9 @@ Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Arqu
 - **🔗 Blockchain**: Smart contracts e aplicações descentralizadas
 
 ### 💼 Onde estou agora:
-- 🏥 **NeuralMed** - Arquiteto de Dados & ML Engineer (Saúde Digital)
-- 🎓 **Academia Lendár[IA]** - Líder de Engenharia de ML (EdTech)
-- 💼 **Consultor Independente** - Arquitetura de dados para grandes players
+- 💼 **Consultor Independente** - Engenheiro de IA para grandes players
+- 🏥 **NeuralMed** - Engenheiro de IA (Saúde Digital)
+- 🎓 **Academia Lendár[IA]** - Intrutor (EdTech)
 
 ---
 
