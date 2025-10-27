@@ -1,62 +1,107 @@
-m# E aí, devs! 👋 Eu sou o Renan
+# 🤖 Renan Santos | AI/ML Engineer & Data Scientist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renandlsantos" alt="renandlsantos" /> </p>
 
-## 🚀 Sobre mim
+---
 
-**Engenheiro de Dados Sênior | ML Engineer | Especialista em IA & Multi-Cloud**
+## 🇧🇷 Português (PT-BR)
 
-Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Engenheiro de IA** e **Instrutor na Academia Lendár[IA]**, onde construo pipelines escaláveis e soluções de IA multi-cloud que impactam milhares de vidas.
+### 🧠 Sobre mim
 
-### 🎯 Minha expertise:
-- **🏗️ Data Engineering**: Pipelines ETL/ELT que aumentaram eficiência em **75%**
-- **🧠 Machine Learning**: Modelos de deep learning com **30% de melhoria na precisão**
-- **☁️ Multi-Cloud Architecture**: Soluções AWS, Azure e GCP para processamento distribuído
-- **⚡ Performance**: Otimizações que reduziram latência em **40%**
-- **🔗 Blockchain**: Smart contracts e aplicações descentralizadas
+**Engenheiro de IA/ML Sênior | Cientista de Dados | Especialista em IA Multi-Cloud**
 
-### 💼 Onde estou agora:
-- 💼 **Consultor Independente** - Engenheiro de IA para grandes players
-- 🏥 **NeuralMed** - Engenheiro de IA (Saúde Digital)
-- 🎓 **Academia Lendár[IA]** - Intrutor (EdTech)
+Especialista em **Inteligência Artificial** e **Machine Learning** com mais de 6 anos transformando dados em soluções inteligentes. Atualmente atuo como **Engenheiro de IA** desenvolvendo sistemas de ML em produção e **Instrutor** na Academia Lendár[IA], capacitando profissionais para o futuro da IA.
+
+#### 🎯 Expertise Principal:
+- **🤖 Machine Learning Engineering**: Modelos de produção com **30% de melhoria na precisão**
+- **🧠 Deep Learning**: Arquiteturas neural networks para problemas complexos
+- **📊 Data Science**: Análise preditiva e estatística avançada
+- **☁️ MLOps & Cloud AI**: Deploy de modelos em AWS, Azure e GCP
+- **⚡ Performance Optimization**: Redução de **40% na latência** de inferência
+- **🏗️ AI Pipeline Architecture**: Sistemas escaláveis para processamento de **terabytes**
+
+#### 💼 Atuação Atual:
+- 💼 **Consultor de IA** - Soluções de IA para clientes enterprise
+- 🏥 **NeuralMed** - Engenheiro de IA (Soluções de IA em Saúde)
+- 🎓 **Academia Lendár[IA]** - Instrutor AI/ML (EdTech)
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🇺🇸 English (EN)
 
-### Multi-Cloud & Big Data
+### 🧠 About Me
+
+**Senior AI/ML Engineer | Data Scientist | Multi-Cloud AI Specialist**
+
+AI and Machine Learning specialist with over 6 years transforming data into intelligent solutions. Currently working as an **AI Engineer** developing production ML systems and **Instructor** at Academia Lendár[IA], training professionals for the future of AI.
+
+#### 🎯 Core Expertise:
+- **🤖 Machine Learning Engineering**: Production models with **30% accuracy improvement**
+- **🧠 Deep Learning**: Neural network architectures for complex problems
+- **📊 Data Science**: Predictive analysis and advanced statistics
+- **☁️ MLOps & Cloud AI**: Model deployment on AWS, Azure and GCP
+- **⚡ Performance Optimization**: **40% latency reduction** in inference
+- **🏗️ AI Pipeline Architecture**: Scalable systems processing **terabytes**
+
+#### 💼 Current Roles:
+- 💼 **AI Consultant** - AI solutions for enterprise clients
+- 🏥 **NeuralMed** - AI Engineer (Healthcare AI Solutions)
+- 🎓 **Academia Lendár[IA]** - AI/ML Instructor (EdTech)
+
+---
+
+## 🛠️ Stack Tecnológico AI/ML | AI/ML Tech Stack
+
+### Machine Learning & Deep Learning
 <div style="display: inline_block">
+  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="TensorFlow" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="PyTorch" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="AWS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="GCP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Apache" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
 
-### Core Technologies
-**Data Engineering**: `Spark` `PySpark` `Airflow` `AWS Glue` `Azure Data Factory` `Cloud Dataflow` `Kafka` `RabbitMQ`  
-**Machine Learning**: `TensorFlow` `PyTorch` `Scikit-learn` `CUDA` `GPU Computing` `Vertex AI` `Azure ML` `SageMaker`  
-**Multi-Cloud Platforms**:  
-- **AWS**: `S3` `EC2` `Lambda` `Glue` `Athena` `Redshift` `DynamoDB` `EMR` `Kinesis`  
-- **Azure**: `Blob Storage` `Data Factory` `Synapse` `Databricks` `Functions` `Cosmos DB`  
-- **GCP**: `BigQuery` `Cloud Storage` `Dataflow` `Pub/Sub` `Vertex AI` `Cloud Functions`  
-**Languages**: `Python` `SQL` `Shell Script` `Java`  
-**DevOps**: `Docker` `Kubernetes` `CI/CD` `Git` `Terraform` `Infrastructure as Code`
+### 🤖 Frameworks & Bibliotecas AI/ML | AI/ML Frameworks & Libraries
+**Deep Learning**: `TensorFlow` `PyTorch` `Keras` `Hugging Face Transformers` `OpenAI API`  
+**ML Libraries**: `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Pandas` `NumPy` `SciPy`  
+**Computer Vision**: `OpenCV` `PIL` `Albumentations` `Detectron2` `YOLO`  
+**NLP**: `NLTK` `spaCy` `Transformers` `BERT` `GPT` `LangChain`  
+**MLOps**: `MLflow` `Kubeflow` `DVC` `Weights & Biases` `Neptune`  
 
-### Emerging Tech
-`Blockchain` `Smart Contracts` `NLP` `Computer Vision` `Deep Learning`
+### ☁️ Plataformas Cloud AI | Cloud AI Platforms
+**AWS AI Services**: `SageMaker` `Bedrock` `Rekognition` `Comprehend` `Forecast` `Personalize`  
+**Azure AI**: `Azure ML` `Cognitive Services` `Bot Framework` `Form Recognizer` `Custom Vision`  
+**GCP AI**: `Vertex AI` `AutoML` `Vision AI` `Natural Language AI` `Translation AI`  
+**GPU Computing**: `CUDA` `cuDNN` `NVIDIA Rapids` `Ray` `Dask`  
+
+### 🏗️ Dados & Infraestrutura | Data & Infrastructure
+**Big Data**: `Apache Spark` `PySpark` `Dask` `Ray` `Apache Kafka` `Apache Airflow`  
+**Databases**: `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `Vector DBs`  
+**Languages**: `Python` `SQL` `R` `Julia` `Scala`  
+**DevOps**: `Docker` `Kubernetes` `Terraform` `GitLab CI/CD` `Jenkins`
 
 ---
 
-## 🏆 Conquistas Recentes
+## 🏆 Conquistas AI/ML & Impacto | AI/ML Achievements & Impact
 
-- 🚀 **75% aumento** na eficiência de processamento de dados clínicos
-- ⚡ **40% redução** de latência em sistemas de alta demanda
-- 🧠 **65% melhoria** na retenção de conhecimento (ML educacional)
-- 🎯 **30% aumento** na precisão de modelos diagnósticos
-- 🏗️ Arquiteturas que processam **terabytes** de dados diariamente
+### 🧠 Performance & Precisão de Modelos | Model Performance & Accuracy
+- 🎯 **30% de melhoria** na precisão de modelos diagnósticos (IA em Saúde) | **30% improvement** in diagnostic model accuracy (Healthcare AI)
+- 🚀 **95% de precisão** alcançada em classificação de imagens médicas | **95% precision** achieved in medical image classification
+- ⚡ **40% de redução** na latência de sistemas de inferência ML em tempo real | **40% latency reduction** in real-time ML inference systems
+- 📊 **99.2% de uptime** para pipelines de ML em produção | **99.2% uptime** for production ML pipelines
+
+### 🏗️ Escalabilidade & Infraestrutura | Scalability & Infrastructure
+- 🏥 **75% de ganho** em eficiência de pipelines de processamento de dados clínicos | **75% efficiency gain** in clinical data processing pipelines
+- 💾 **Terabytes diários** processados através de arquiteturas AI/ML | **Terabytes daily** processed through AI/ML architectures
+- 🔄 **Auto-scaling** de modelos ML lidando com 10M+ predições/dia | **Auto-scaling** ML models handling 10M+ predictions/day
+- ☁️ **Deployments multi-cloud** de IA em AWS, Azure & GCP | **Multi-cloud** AI deployments across AWS, Azure & GCP
+
+### 🎓 Impacto Educacional | Educational Impact
+- 🧠 **65% de melhoria** na retenção de conhecimento através de aprendizado powered por ML | **65% knowledge retention** improvement through ML-powered learning
+- 👥 **500+ profissionais** treinados em metodologias AI/ML | **500+ professionals** trained in AI/ML methodologies
+- 📈 **85% de taxa** de conclusão de cursos em programas de especialização em IA | **85% course completion** rate in AI specialization programs
 
 ---
 
@@ -83,24 +128,38 @@ Transformo dados em inteligência há mais de 6 anos! 🤖 Atualmente sou **Enge
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Soluções de IA & Projetos Enterprise | AI Solutions & Enterprise Projects
 
-Trabalho com clientes como:
-- 🏥 **Saúde**: NeuralMed, Oncoclínicas, Hospital Albert Einstein, Grupo Fleury
-- 🏛️ **Governo**: DETRAN-PA, CREA-SP, BANPARÁ
-- 🎓 **Educação**: Academia Lendár[IA], PRODESP
-- 💼 **Enterprise**: Grupo Notre Dame Intermédica, Sírio Libanês
+### 🏥 Soluções de IA em Saúde | Healthcare AI Solutions
+- **NeuralMed**: Modelos de IA diagnósticos para análise de imagens médicas | Diagnostic AI models for medical imaging analysis
+- **Oncoclínicas**: Modelos preditivos para otimização de tratamento de câncer | Predictive models for cancer treatment optimization
+- **Hospital Albert Einstein**: Sistemas NLP para documentação clínica | NLP systems for clinical documentation
+- **Grupo Fleury**: Computer vision para automação laboratorial | Computer vision for laboratory automation
+
+### 🏛️ IA Governamental & Setor Público | Government & Public Sector AI
+- **DETRAN-PA**: Computer vision para monitoramento de tráfego e detecção de violações | Computer vision for traffic monitoring and violation detection
+- **CREA-SP**: Processamento de documentos powered por NLP e classificação | NLP-powered document processing and classification
+- **BANPARÁ**: Modelos ML de detecção de fraude para transações financeiras | Fraud detection ML models for financial transactions
+
+### 🎓 EdTech & IA Educacional | EdTech & Learning AI
+- **Academia Lendár[IA]**: Sistemas de recomendação de aprendizado personalizado | Personalized learning recommendation systems
+- **PRODESP**: Otimização de conteúdo educacional powered por IA | AI-powered educational content optimization
+
+### 💼 Aplicações de IA Enterprise | Enterprise AI Applications
+- **Grupo Notre Dame Intermédica**: Analytics preditivos para resultados de pacientes | Predictive analytics for patient outcomes
+- **Sírio Libanês**: Otimização de recursos e agendamento driven por IA | AI-driven resource optimization and scheduling
 
 ---
 
-## 🤝 Vamos conectar?
+## 🤝 Vamos Conectar & Colaborar | Let's Connect & Collaborate
 
-Sempre disponível para:
-- 💬 **Discussões sobre Data Engineering e ML** em produção
-- 🤝 **Colaborações** em projetos open source
-- 🎯 **Consultoria** em arquiteturas de dados e IA
-- 🎓 **Mentoria** para devs que querem migrar para dados/ML
-- 💡 **Parcerias** em projetos inovadores
+Sempre disponível para | Always available for:
+- 💬 **Discussões de Engenharia AI/ML** e desafios de produção | **AI/ML Engineering discussions** and production challenges
+- 🤝 **Colaborações open source** em projetos AI/ML | **Open source collaborations** in AI/ML projects
+- 🎯 **Consultoria em IA** para soluções ML enterprise | **AI consulting** for enterprise ML solutions
+- 🎓 **Mentoria** para desenvolvedores migrando para carreiras AI/ML | **Mentoring** developers transitioning to AI/ML careers
+- 💡 **Parcerias de inovação** em projetos de IA de ponta | **Innovation partnerships** in cutting-edge AI projects
+- 🧠 **Colaborações de pesquisa** em deep learning e NLP | **Research collaborations** in deep learning and NLP
 
 ### 📱 Me encontre nas redes:
 
@@ -123,10 +182,12 @@ Sempre disponível para:
 
 <div align="center">
   
-### 💭 *"Dados são o novo petróleo, mas IA é a refinaria"*
+### 💭 *"IA não é apenas o futuro—é o presente transformando cada indústria"* | *"AI is not just the future—it's the present transforming every industry"*
 
-**⭐ Se curtiu meus projetos, deixa uma star! Vamos construir o futuro dos dados juntos 🚀**
+**⭐ Se curtiu meus projetos AI/ML, deixa uma star! Vamos construir o futuro da inteligência juntos 🚀**  
+**⭐ If you liked my AI/ML projects, give it a star! Let's build the future of intelligence together 🚀**
 
-📈 **Consultoria disponível** | 🎓 **Mentoria tech** | 🤝 **Open source lover**
+🤖 **Consultoria em IA Disponível** | 🧠 **Mentoria ML** | 🤝 **Entusiasta Open Source AI**  
+🤖 **AI Consulting Available** | 🧠 **ML Mentoring** | 🤝 **Open Source AI Enthusiast**
 
 </div>
